@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aspekt_Task_Endrit_Ajrulla", "Aspekt_Task_Endrit_Ajrulla\Aspekt_Task_Endrit_Ajrulla.csproj", "{1D852C48-A50B-4537-8747-247692080BFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1D852C48-A50B-4537-8747-247692080BFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D852C48-A50B-4537-8747-247692080BFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D852C48-A50B-4537-8747-247692080BFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D852C48-A50B-4537-8747-247692080BFB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {02360356-FF1E-4B7B-80D3-1B26183FBCD4}
+	EndGlobalSection
+EndGlobal
